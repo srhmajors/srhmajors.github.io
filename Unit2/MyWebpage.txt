@@ -1,7 +1,7 @@
 <!DOCTYPE html>
-<html ang="en">
+<html lang="en">
 <head>
-<title>Page Title Gods Here/title>
+<title>Page Title Goes Here</title>
 <meta charset="utf-8">
 </head>
 <body>
