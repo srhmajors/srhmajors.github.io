@@ -10,7 +10,7 @@
 
 <p>Hello, Class! My name is Sarah. This is block is surrounded by paragraph tags. Paragraphs are a block level element. <br>
 
-However, some tags are inline, meaning that they don't create a new block of text, but they state that there is a meaning change. For example, this text is emphasized by making it bold. Sometimes we may choose to emphasize other text by italicizing it or underlining it.</p>
+However, some tags are inline, meaning that they don't create a new block of text, but they state that there is a meaning change. For example, <b>this text is emphasized by making it bold</b>. Sometimes we may choose to emphasize other text by <i>italicizing</i> it or <u>underlining it</u>.</p>
 
 My Lists. This is an H2 header; it is a subheading underneath H1.  
 
