@@ -1,0 +1,275 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>Sarah Majors Website Evaluation Report</title>
+<meta charset="utf-8">
+
+<!-- CSS declaration -->
+
+<style type="text/css">
+a:link {background-color: #FCFCF2; color:#000000; }
+a:visited {background-color: #FCFCF2; color:#73003A;}
+a:hover {background-color: #FCFCF2; color:#518100;}
+a:active {background-color: #FCFCF2; color: #73003A;}
+body { background-color: #FCFCF2;
+	color: #000000;
+	line-height: 200%;
+	font-family: Arial, Verdana, sans-serif; }
+	h1{ color: #73003A}
+h2{ border-bottom-style: solid; border-bottom-width: 5px; padding-left: 15px; background-color: #41005D;
+	color: #BABC78;}
+h3{ font-weight: 700; color: #518100;}
+h4{ font-style: italic; color: #73003A;}
+p { font-size: .90em; }
+#footer { font-size: .75em;
+	font-style: italic;}
+.nav { font-weight: bold;}
+	.companyname { font-weight: bold;
+	font-family: Georgia, "Times New Roman", serif;
+	font-size: 1.25em;}
+#wrapper { width: 800px;
+	margin-left: auto;
+	margin-right: auto; }
+#small { font-size: .80em; line-height: 100%}
+img {border: none}
+table { margin: auto;
+	border: 5px solid #518100;
+	width: 300px}
+td, th { border: 1px solid #518100;
+	padding: 0.5em;
+	font-family: Arial, sans-serif;}
+caption {font-family: Verdana, sans-serif;
+	font-weight: bold;
+	font-size: 1.2em;
+	padding-bottom: 0.5em}
+</style>
+</head>
+
+<body>
+	<div id="wrapper">
+
+<h1>Sarah Majors Evaluation Report</h1>
+
+
+<!-- Participants -->
+
+
+<h2>Participants</h2>
+	<div class="design"></div>
+	
+	<h3>HTML Developer</h3>
+		<div class="design"></div>
+	<p>Elizabeth, a classmate in ISLT 7360 Introduction to Web Development, reviewed the code of my pilot website.  She has created her 
+		own pilot website during this class that has turned out very well.  She was the first and only person to comment on the 
+		discussion board where I posted my pilot website link.  She did not find any errors in my code.</p>
+
+	<h3>Observed User</h3>
+		<div class="design"></div>	
+	<p>My observed user was Anthony, he is a parent in the school district with a middle school son and so he was
+		a perfect user to observe for my pilot website.  He has already had a student go through the middle school that I work at
+		and he struggled knowing what was going on in her classes and how to best help her.  Anthony works in the corporate
+		world in technology and accounting, he brings new ideas to fruition or helps others in the company do the same so he 
+		is technology savvy.  He used 
+		his Samsung Galazy S8 smartphone to view my pilot website in a Chrome web browser while on cellular data. I asked 
+		Anthony to find some items on my website that most parents would be interested in.
+		</p>
+
+	<h3>User Testers</h3>
+		<div class="design"></div>
+	<p>My first user tester was Joshua, a classmate in ISLT 7360 Introduction to Web Development and a 3rd grade teacher.  Being
+		a classroom teacher I knew that he would be able to provide helpful feedback on my website, he has many interactions with
+		parents and students on a daily basis.  He used a HP ProBood Intel Core i5 7th Gen in a Chrome web browser using a cable
+		modem 250MB/s internet connection to access my website.</p>
+		
+	<p>My second user tester was Mariah, a classmate in ISLT 7360 Introduction to Web Development and a 7th grade math
+		teacher.  Being a middle school math teacher I knew that she could provide valuable insight into what parents and students
+		need to be successful in class.  She used a Mac in a Chrome web browser using a cable modem to access my pilot website</p>
+	
+	
+
+<!-- Summary of comments -->
+	
+	
+<h2>Summary of Evaluators Comments</h2>
+	<div class="design"></div>	
+	
+<table>
+	<caption>Average Evaluator Scores</caption>
+		<tr>
+		<th>Category</th>
+		<th>Average Score</th>
+		</tr>
+		<tr>
+		<td>Design</td>
+		<td>4</td>
+		</tr>
+		<tr>	
+		<td>Content</td>
+		<td>4.8</td>
+		</tr>
+		<tr>
+		<td>Credibility</td>
+		<td>5</td>
+		</tr>
+</table>
+
+<p>All agreed that they liked the navigation being at the top and bottom of each page, it made getting back to the home page very quick and
+	easy without a lot of extra scrolling.  They also agreed that all pages were clear about
+	what page you were on because they were clearly labeled.  No one had any issues opening any of the links on my pilot website. One 
+	user thought the text color with a purple background in the header was a little dull, everyone else had positive comments on the 
+	colors used on the website.  </p>
+
+<p>Almost everyone mentioned that the banner image is too busy and hard to read.  It was also mentioned by several evaluators that it 
+	would be best if any links opened in a new window. The observed user, Anthony, had no issues viewing my website on his cell phone, however he did comment that it is not as fluid as most mobile
+	sites.  One of the user testers, Joshua, mentioned that he liked my photo on the home page but that I did not list any of my 
+	credentials or years of experience in teaching. One evaluator felt that my font was too small.</p>
+
+<p> It was mentioned by more than one
+		person that they thought my website would get repeat traffic due to the content on the site.  One person mentioned
+		how much they liked the games and the other mentioned that the resources supplement their learning and ensures return 
+		users.</p>
+	
+	
+
+<!-- Evaluator Data -->
+	
+<h2>Evaluator Data</h2>
+	<div class="design"></div>	
+
+	<p>Click on the links to view the evaluators data files. </p>
+
+	
+	<a href="WebsiteEvaluationEBeck.pdf" target="_blank">Elizabeth</a> 
+	<a href="WebsiteEvaluationABarber.pdf" target="_blank">Anthony</a>
+	<a href="WebsiteEvaluationJLang.pdf" target="_blank">Joshua</a>
+	<a href="WebsiteEvaluationMVaughn.pdf" target="_blank">Mariah</a>
+
+<!-- Use Cases -->
+
+<h2>Use Cases</h2>
+	<div class="design"></div>
+<p>My original use cases that I planned for in my design document were:  </p>
+		<ul>
+			<li>Students who are struggling with the math concepts and need a review of the days lesson can go to the 
+				website and watch a video explanation of the lesson. The hope is that review will help them to 
+				complete their homework.</li>
+			<li>Students who have free time in math class, another class or at home can use the resources and games to 
+				increase their math skills. These can be used as review, enrichment, or as a way to practice/learn missing 
+				concepts.</li>
+			<li>Parents can use the website to review math material with or without their child to better help them with the homework. 
+				Parents can also use the website to check what homework was assigned and when the next assessment is. I will include links to 
+				both Schoology (LMS) and Infinite Campus (grades)</li>
+		</ul>
+<p>I supported these use cases by including links to resources that match the lesson I teach each day on the homework calendar.  There 
+	are tips and resources to help prepare for quizzes and tests on the review page.  Additionally I included websites that offer 
+	videos and practice for the concepts we are learning this year in math class located on the resources page.  For students who 
+	want extension or review during free time or at home have plenty of options to choose from on the games page.  Parents are 
+	supported with helpful information and links on the home page, homework page, resources page and the review page.  I was able 
+	to support all of my use cases on my website.  </p>
+<p>The main difference between my original envision for my website and what I created was that I do not incorporate goal setting and 
+	data tracking into the website for students.  Right now we do that either on paper kept in individual binders or in OneNote.  I 
+	also did not add links for Desmos or Geogebra, these are resources that I use in my classroom semi-regularly and post the sites 
+	on the SMARTboard when needed, so it is not necessary to add to the website.  Another thing that I did not put on this website 
+	is both a video of my teaching and a video of someone else teaching the same lesson for each day.  Most students do not use the 
+	videos and I decided I would rather share my YouTube chanel with students rather than have to go in and update this on a daily 
+	basis.  If I were to use this website for my actual math students I would embed my Google Calendar or Schoology Calendar so it 
+	would update the information as I input it into the calendars.    </p>
+<p>The main purpose of my website stayed the same, to help students be successful in 8th grade math and to provide support so parents 
+	can help their students however they see fit.  I am happy with how my website turned out and feel it would be a great resource 
+	for both students and parents!  </p>
+
+<!-- Recommended/Planned Changes -->
+
+<h2>Recommended/Planned Changes</h2>
+	<div class="design"></div>
+
+	<p>Based on the feedback that I have collected, I propose making the following changes.   </p>
+
+	<h3>Enhancing Credibility</h3>
+		<div class="design"></div>
+		<ul>
+		<li>I will list my educational background on the home page  </li>
+		<li>I will list my years of teaching experience on the home page   </li>
+		<li>Adding these credentials to my website will let students and parents know a little more about me and increase the 
+			credibility of my website.  </li>
+		</ul>
+		
+	<h3>External Links</h3>
+		<div class="design"></div>
+		<ul>
+		<li>I will update my code so that external links will open in a new window.  This will make it easier for my users to 
+			use my website as they will not be directed away from it and have to figure out how to get back to it.</li>
+		<li>In order to change my external links I need to set the target attribute to target="_blank" on all links that I want
+			to open in a new window.</li>
+		<li>I will go through my website and add this target attribute and then test my website in two different web browsers to
+			ensure it all works correctly.</li>
+		</ul>
+		
+	<h3>Banner Image</h3>
+		<div class="design"></div>
+		<ul>
+		<li>I will work on my banner image to make it clearer and easier to read.   </li>
+		<li> Having my banner be more clear and easier to read will take away a distraction on my website.  I don't want students
+			or parents to have to struggle reading my banner.</li>
+		</ul>
+	
+	<h3>Changes I am not making and reasons why</h3>
+		<div class="design"></div>
+		<ul>
+		<li>Font size - only one person mentioned the font size as being too small.  I do not believe my font size is too small,
+			it is the same size as most other websites so I am not making my font size any larger.</li>
+		<li>Header colors - I put all colors of my website through  <a href="https://webaim.org/resources/contrastchecker/">Web 
+			Aim's</a> color contrast checker and they all passed. So I can appreciate that one user did not prefer the color
+			but it is readable and so I am going to leave it as it is.  </li>
+		</ul>
+		
+		
+<!-- Reflection on Evaluation Process -->
+
+<h2>Reflection of Evaluation Process</h2>
+	<div class="design"></div>
+
+<p> It was nice having several different ways to evaluate my piot website: observation, interviews, surveys with users-testers, 
+	experienced developer’s testing.  Each evaluation method brought up new points of discussion and ideas for improvement that 
+		doing only one kind of evaluation might have missed.  Being able to see an end user go through my website trying to find
+		certain items was eye opening to me.  The path that I had in my head was different then the path they took and understanding
+		that and ensuring you have more then one way to get around your site is key.  Surveys with user testers were very useful
+		in getting solid constructive feedback to improve my site.  They were able to address all questions in the website evaluation
+		form to provide an in depth look at my site.  Having a class mate who is familiar with HTML go through my code was beneficial 
+		to ensure everything looked and I was not missing or duplicating anything.  </p>
+<p> I was scared to death of this assignment at the begining of the semester but like anything the more you practice and study the better
+		you get and coding is no different.  I am glad we had all of the additional smaller assignments first to practice the basics
+		and kept adding on to what we already learned.  The videos were very helpful at the begining of each module!  This assignment
+		reminded me of hard some students think math is and that it is easy to just put it off because it is hard and not do the work 
+		necessary to succeed.  But everyone is capable of learning when they put forth the effort.  I am so excited and proud of my very
+		own self coded website!</p>
+
+
+
+
+
+<!-- Permissions and Copyrights -->
+
+<hr>
+
+<p id="footer">Page created by <a href="mailto:sbm427@mail.missouri.edu">Sarah Majors</a>, 8th grade math teacher. 
+Last updated July 11, 2018.</p>
+
+
+	<!-- Validation icons -->
+<p>
+    <a href="https://jigsaw.w3.org/css-validator/check/referer">
+        <img style="border:0;width:88px;height:31px"
+            src="https://jigsaw.w3.org/css-validator/images/vcss"
+            alt="Valid CSS!" />
+    </a>
+</p>
+     <p>
+    <a href="https://jigsaw.w3.org/css-validator/check/referer">
+        <img style="border:0;width:88px;height:31px"
+            src="https://jigsaw.w3.org/css-validator/images/vcss-blue"
+            alt="Valid CSS!" />
+    </a>
+</p>
+	</div>	
+</body></html>
