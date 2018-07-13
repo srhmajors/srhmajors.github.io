@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>Majors Final Website</title>
+<meta charset="utf-8">
+
+<!-- CSS declaration -->
+
+<style type="text/css">
+a:link {background-color: #FCFCF2; color:#000000; }
+a:visited {background-color: #FCFCF2; color:#73003A;}
+a:hover {background-color: #FCFCF2; color:#518100;}
+a:active {background-color: #FCFCF2; color: #73003A;}
+body { background-color: #FCFCF2;
+	color: #000000;
+	line-height: 200%;
+	font-family: Arial, Verdana, sans-serif; }
+	h1{ color: #73003A}
+h2{ border-bottom-style: solid; border-bottom-width: 5px; padding-left: 15px; background-color: #41005D;
+	color: #BABC78;}
+h3{ font-weight: 700; color: #518100;}
+h4{ font-style: italic; color: #73003A;}
+p { font-size: .90em; }
+#footer { font-size: .75em;
+	font-style: italic;}
+.nav { font-weight: bold;
+	text-align:center;}
+.companyname { font-weight: bold;
+	font-family: Georgia, "Times New Roman", serif;
+	font-size: 1.25em;}
+#wrapper { width: 800px;
+	margin-left: auto;
+	margin-right: auto; }
+#small { font-size: .80em; line-height: 100%}
+img {border: none}
+</style>
+</head>
+
+<body>
+<div id="wrapper">
+
+
+<img src="https://srhmajors.github.io/ISLT_7360/PilotSite/PilotSiteImages/AllBanner.png" alt="Mrs. Majors 8th Grade Math Website" height="200" width="800" >
+	
+
+<!-- Top navigation -->
+
+<div class="nav"><a href="https://srhmajors.github.io/ISLT_7360/PilotSite/Majors_Pilot.html">Home</a> | 
+<a href="https://srhmajors.github.io/ISLT_7360/PilotSite/Resources.html">Resources</a> | 
+<a href="https://srhmajors.github.io/ISLT_7360/PilotSite/Review.html">Review</a> |
+<a href="https://srhmajors.github.io/ISLT_7360/PilotSite/Homework.html">Homework</a> |  
+<a href="https://srhmajors.github.io/ISLT_7360/PilotSite/Games.html">Games</a></div> 	
+	
+	
+	
+<!-- Home: Welcome -->	
+
+
+<h2>Welcome to Mrs.Majors 8th grade math class!  </h2>
+	<div class="design"></div>
+
+<div>
+<p><img src="https://srhmajors.github.io/ISLT_7360/PilotSite/PilotSiteImages/HomeSarah.png" alt="Mrs. Majors photo"
+	height="300" width="215" style="float:right">
+	
+Hello!  My name is Mrs. Majors and I am the 8th grade math teacher for the Jaguars.  I look forward to learning with you this year 
+	as we explore the <a href="https://www.parkhill.k12.mo.us/UserFiles/Servers/Server_62416/File/Academic%20Services/Board%20Approved%20Curriculum/6-12%20Mathematics/Revisions%20Spring%202017/8thGradeMathematics--Board%20Approved%20May%2011,%202017.pdf">8th grade math curriculum</a>. </p> 
+
+<p>Everyday you will need to bring these supplies to class:</p>
+<ul>	
+	<li>Spiral notebook </li>
+	<li>Pencil </li>
+	<li>Laptop</li>
+	<li>Calculator (optional)</li>
+	<li>Expo marker (optional)</li>
+	<li>Colored pencils (optional)</li>
+	</ul>
+	
+<p>8th grade math will prepare you for Algebra 1A in high school.  It is a much more rigorous curriculum than 7th grade.  You will have 
+	homework almost every night.  We will spend the first few days getting to know each other and building a community of math 
+	learners.  It is important to me to create a safe learning environment for all students as we will be making a lot of mistakes 
+	as we learn.  I will reinforce the fact that we learn so much more from our mistakes than we do from our correct answers so I 
+	want everyone to feel safe to share. </p>
+
+		 
+<blockquote><em>"We learn wisdom from failure much more than from success. We often discover what will do, by finding out what will 
+not do; and probably he who never made a mistake never made a discovery” ― Samuel Smiles, The Lives of George and Robert 
+Stephenson</em></blockquote>
+
+
+<h3>We will cover the following topics this year:</h3>
+	<div class="design"></div>	
+	<ul>
+		<li>Unit 1: Number Sense, Expressions and Equations</li>
+		<li>Unit 2:  Functions and Linear Relationships</li>
+		<li>Unit 3:  Transformations and Transversals</li>
+		<li>Unit 4:  Exponential Functions, Pythagrorean Theorem and Volume</li>
+	</ul>
+	
+<p>I highly suggest you use the links to <a href="https://schoology.parkhill.k12.mo.us/home/">Schoology</a> and 
+	<a href="https://ic.parkhill.k12.mo.us/">Infinite Campus</a> to check the homeowrk calendar and grades on a regular basis.</p>
+
+<h3>Contact Information</h3>
+	<div class="design"></div>
+	<p>Please feel free to contact me anytime at 816-359-6713 or send me an <a href="mailto:majorss@parkhill.k12.mo.us">email</a>. 
+		I will respond as quickly as I can.</p>
+
+
+	
+
+<!-- Bottom navigation -->
+
+<div class="nav" ><a href="https://srhmajors.github.io/ISLT_7360/PilotSite/Majors_Pilot.html">Home</a> | 
+<a href="https://srhmajors.github.io/ISLT_7360/PilotSite/Resources.html">Resources</a> | 
+<a href="https://srhmajors.github.io/ISLT_7360/PilotSite/Review.html">Review</a> |  
+<a href="https://srhmajors.github.io/ISLT_7360/PilotSite/Homework.html">Homework</a> |  
+<a href="https://srhmajors.github.io/ISLT_7360/PilotSite/Games.html">Games</a></div>    
+
+
+	</div>
+
+
+<!-- Permissions and Copyrights -->
+
+<hr>
+<p><strong>Image reproduced with permission from <a href="http://susanrobichaud.blogspot.com/">Robichaud Photography</a>.</strong></p>
+
+<p><strong>Image reproduced with permission from <a href="https://pixabay.com/en/banner-number-digit-maths-1183445//">Pixaby</a>.</strong></p>
+	
+<p id="footer">Page created by <a href="mailto:sbm427@mail.missouri.edu">Sarah Majors</a>, 8th grade math teacher. 
+Last updated July 13, 2018.</p>
+
+
+	<!-- Validation icons -->
+<p>
+    <a href="https://jigsaw.w3.org/css-validator/check/referer">
+        <img style="border:0;width:88px;height:31px"
+            src="https://jigsaw.w3.org/css-validator/images/vcss"
+            alt="Valid CSS!" />
+    </a>
+</p>
+     <p>
+    <a href="https://jigsaw.w3.org/css-validator/check/referer">
+        <img style="border:0;width:88px;height:31px"
+            src="https://jigsaw.w3.org/css-validator/images/vcss-blue"
+            alt="Valid CSS!" />
+    </a>
+</p>
+		
+	</div>	</body>   </html>
